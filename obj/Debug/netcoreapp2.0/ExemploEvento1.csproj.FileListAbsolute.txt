@@ -1,0 +1,10 @@
+C:\Users\22386773809\backend\ExemploEvento1\bin\Debug\netcoreapp2.0\ExemploEvento1.deps.json
+C:\Users\22386773809\backend\ExemploEvento1\bin\Debug\netcoreapp2.0\ExemploEvento1.runtimeconfig.json
+C:\Users\22386773809\backend\ExemploEvento1\bin\Debug\netcoreapp2.0\ExemploEvento1.runtimeconfig.dev.json
+C:\Users\22386773809\backend\ExemploEvento1\bin\Debug\netcoreapp2.0\ExemploEvento1.dll
+C:\Users\22386773809\backend\ExemploEvento1\bin\Debug\netcoreapp2.0\ExemploEvento1.pdb
+C:\Users\22386773809\backend\ExemploEvento1\obj\Debug\netcoreapp2.0\ExemploEvento1.csproj.CoreCompileInputs.cache
+C:\Users\22386773809\backend\ExemploEvento1\obj\Debug\netcoreapp2.0\ExemploEvento1.AssemblyInfoInputs.cache
+C:\Users\22386773809\backend\ExemploEvento1\obj\Debug\netcoreapp2.0\ExemploEvento1.AssemblyInfo.cs
+C:\Users\22386773809\backend\ExemploEvento1\obj\Debug\netcoreapp2.0\ExemploEvento1.dll
+C:\Users\22386773809\backend\ExemploEvento1\obj\Debug\netcoreapp2.0\ExemploEvento1.pdb
